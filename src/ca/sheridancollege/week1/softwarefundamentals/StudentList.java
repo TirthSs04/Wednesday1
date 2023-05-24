@@ -11,7 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * list to print each name.
  * @author dancye, Jan 2019
  */
-public class StudentListfgf {
+public class StudentList {
     
     public static void main(String[] args)
     {
